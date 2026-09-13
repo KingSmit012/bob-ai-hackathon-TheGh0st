@@ -1,6 +1,6 @@
-# 🚀 [Your Project Title Here]
+# 🛡️ Threat Intel Correlation & Alert Prioritisation Assistant
 
-> ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
+> **Bob AI Hackathon — Track: AI — Problem D2**
 
 ---
 
@@ -8,36 +8,32 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | TheGh0st |
+| **Track** | AI |
+| **Team Lead** | Smit — [fill-in-email] |
+| **Members** | Smit |
 
 ---
 
 ## 🎯 Problem Statement
 
-> In 2–3 sentences: What problem does your project solve? Who experiences this problem?
-
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+> Defence analysts receive thousands of security alerts daily from SIEM systems, IDS sensors, firewalls, email gateways, and threat intelligence feeds. Over 90% are false positives, but missing a real threat is catastrophic. Manual triage takes 45-90 minutes per incident and doesn't scale.
 
 ---
 
 ## 💡 Solution
 
-> In 2–3 sentences: What did you build? How does it solve the problem above?
-
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+> A Python-based pipeline that ingests multi-source security alerts, correlates them into incidents using rule-based IP/time-window grouping, classifies each as genuine threat or false positive using IBM watsonx.ai (Granite model), maps threats to MITRE ATT&CK techniques, and generates ranked BLUF (Bottom Line Up Front) intelligence summaries — the format defence decision-makers expect.
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Multi-Source Alert Ingestion:** Normalises alerts from SIEM, IDS, firewalls, email gateways, and threat intel feeds into a unified format.
+- **Rule-Based Correlation Engine:** Groups related alerts into incidents using IP pair matching and configurable time windows — deterministic, debuggable, no ML training required.
+- **LLM-Powered Classification:** IBM watsonx.ai Granite model acts as an expert SOC analyst to classify incidents as genuine threats or false positives with confidence scores and reasoning.
+- **MITRE ATT&CK Mapping:** Hybrid keyword-match + LLM approach maps each incident to relevant ATT&CK techniques with explanations.
+- **BLUF Intelligence Summaries:** Generates military-standard briefings (Bottom Line, Supporting Detail, MITRE Mapping, Recommended Actions) for decision-makers.
 
 ---
 
@@ -45,11 +41,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
+| **Languages** | Python 3.10+ |
+| **Frameworks** | Streamlit (dashboard), Click (CLI) |
+| **IBM Technologies** | IBM watsonx.ai (Granite model via `ibm-watsonx-ai` SDK) |
+| **Data** | Pandas, JSON |
+| **Other** | Anthropic Claude (fallback LLM), python-dotenv |
 
 ---
 
@@ -57,14 +53,25 @@
 
 ```
 ├── src/                  # All source code
-├── docs/                 # Written documentation
+│   ├── cli.py            # CLI entry point
+│   ├── config.py         # Central configuration
+│   ├── data/             # Synthetic alerts, MITRE ATT&CK, asset data
+│   ├── ingestion/        # Alert loading + normalisation
+│   ├── correlation/      # Rule-based alert correlation
+│   ├── llm/              # LLM client abstraction (watsonx + Anthropic)
+│   ├── classification/   # Threat vs false-positive classification
+│   ├── mitre_mapping/    # MITRE ATT&CK technique mapping
+│   ├── bluf/             # BLUF summary generation
+│   ├── prioritisation/   # Incident ranking
+│   └── ui/               # Streamlit dashboard
+├── docs/                 # Documentation
 │   ├── problem-statement.md
 │   ├── solution-overview.md
-│   ├── architecture.md
+│   ├── architecture.md   # Includes Mermaid diagram
 │   └── setup-guide.md
 ├── demo/                 # Demo artifacts
-│   ├── screenshots/      # App screenshots
-│   └── demo-video-link.txt  # Link to demo video
+│   ├── screenshots/
+│   └── demo-video-link.txt
 ├── presentation/         # Slide deck
 └── submission.yaml       # Structured submission metadata
 ```
@@ -73,22 +80,29 @@
 
 ## ⚡ How to Run
 
-> **Copy these exact steps from your [`docs/setup-guide.md`](docs/setup-guide.md)**
+> **Full details in [`docs/setup-guide.md`](docs/setup-guide.md)**
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/[your-repo].git
-cd [your-repo]
+git clone https://github.com/your-org/bob-ai-hackathon-TheGh0st.git
+cd bob-ai-hackathon-TheGh0st
 
 # 2. Install dependencies
-[your install command here]
+cd src
+pip install -r requirements.txt
 
 # 3. Configure environment
 cp .env.example .env
-# Edit .env with your values
+# Edit .env with your watsonx.ai API key + project ID
 
-# 4. Run the project
-[your run command here]
+# 4. Generate synthetic data (if not present)
+python generate_synthetic_alerts.py
+
+# 5. Run the CLI
+python cli.py --output report.md
+
+# 6. Or launch the Streamlit dashboard
+streamlit run ui/app.py
 ```
 
 ---
@@ -100,22 +114,22 @@ cp .env.example .env
 | 📹 Demo Video | [See demo/demo-video-link.txt](demo/demo-video-link.txt) |
 | 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
 | 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
-| 📊 Presentation | [See presentation/slides.pdf](presentation/) |
+| 📊 Presentation | [See presentation/](presentation/) |
 
 ---
 
 ## ⚠️ Known Limitations
 
-> Be honest — judges appreciate transparency over overclaiming.
-
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
+- **Synthetic data only:** Uses generated alerts, not real SOC data. Real-world alerts would have more variation in format.
+- **LLM latency:** Each incident requires 3 LLM API calls (classify + MITRE + BLUF). Processing 20+ incidents takes 2-5 minutes depending on API speed.
+- **MITRE ATT&CK subset:** Only 30 of 600+ techniques included. Production use would need the full catalogue.
+- **No persistent storage:** Results are not saved to a database; each run processes from scratch.
+- **Correlation tuning:** Time window and merging heuristics work well for our synthetic data but would need tuning for real-world alert patterns.
 
 ---
 
 ## 🏅 What We're Most Proud Of
 
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
+The **LLM integration is genuinely load-bearing** — it's not a wrapper around a rule engine with an LLM bolted on. The watsonx.ai Granite model performs the actual threat/false-positive reasoning, MITRE technique selection, and intelligence summary writing. The prompt engineering is visible and tunable, and the structured JSON output parsing handles real-world LLM output messiness gracefully.
 
 ---
