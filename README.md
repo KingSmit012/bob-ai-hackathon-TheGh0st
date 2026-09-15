@@ -10,7 +10,7 @@
 |---|---|
 | **Team Name** | TheGh0st |
 | **Track** | AI |
-| **Team Lead** | Smit — [fill-in-email] |
+| **Team Lead** | Smit — smitmendapara78@gmail.com |
 | **Members** | Smit |
 
 ---
