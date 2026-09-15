@@ -377,12 +377,6 @@ with tab3:
             bluf_summaries = results["bluf_summaries"]
 
             # Summary metrics
-            genuine_count = sum(
-                1 for _, _ in ranked
-                if classifications.get(_.incident_id, {}).get("classification") == "genuine_threat"
-                for _ in [_]  # just to access the incident
-            )
-            # Simpler count
             genuine_count = 0
             fp_count = 0
             for inc, score in ranked:
