@@ -282,14 +282,14 @@ with tab3:
     st.header("BLUF Intelligence Reports")
 
     if not run_llm:
-        st.info(
-            "Enable **'Run LLM Analysis'** in the sidebar and click "
-            "**'Analyse Alerts'** to generate BLUF reports. "
-            "This requires an LLM API key configured in your .env file."
-        )
+        # st.info(
+        #     "Enable **'Run LLM Analysis'** in the sidebar and click "
+        #     "**'Analyse Alerts'** to generate BLUF reports. "
+        #     "This requires an LLM API key configured in your .env file."
+        # )
 
         # Show a preview of what the output would look like
-        st.markdown("### Preview (without LLM)")
+        # st.markdown("### Preview (without LLM)")
         st.markdown("Below are the correlated incidents that would be analysed:")
 
         for inc in incidents:

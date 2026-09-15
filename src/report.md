@@ -1,5 +1,5 @@
 # Threat Intelligence Correlation Report
-**Generated:** 2026-09-15 11:02:08
+**Generated:** 2026-09-15 18:49:27
 **Total Incidents:** 83
 **Genuine Threats:** 83
 **False Positives:** 0
@@ -21,9 +21,9 @@
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Ho1ACpKLckxeJLQ84x'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -36,9 +36,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrvqNPjBSukmRjMQt9'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -51,9 +51,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HoeaUzArrf97VEkkDH'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -66,9 +66,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqdrNxip3t99ZdGcRS'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -81,9 +81,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HoEyAatSWtQV7fgRcV'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -96,9 +96,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hq961MtNNdsFqZ6rvh'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -111,9 +111,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqKZJNj7iZaDPbY4fC'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -126,9 +126,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpVgyCpvnfWZw6Lhbp'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -141,9 +141,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hq4s1Ua1tjdXGy4ZyB'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -156,9 +156,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqYvxqMeuxr7YphPq1'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -171,9 +171,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hr7s7XhVqWfqrCfeMf'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -186,9 +186,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrNBLMTq6UoHtYaixW'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -201,9 +201,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrSn9y2js3XDChYWLe'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -216,9 +216,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsJtvANzSKBCgmyoMM'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -231,9 +231,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtH2aUBG3Y6iMQXbZn'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -246,9 +246,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtM89DZnzcJqxtmFB1'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -261,9 +261,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtvqfcFgson52fNwfV'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -276,9 +276,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hu4yZex3RLaCG3pSkU'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -291,9 +291,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hoxr5QY5V7SpBJWjd4'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -306,9 +306,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HnrUp8vNQrfXEFDryj'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -321,9 +321,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Ho56bQMC5kFAPDqGLu'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -336,9 +336,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Ho9UX7vrbmdrryXqeK'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -351,9 +351,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HoKtLTspeEDg16YECy'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -366,9 +366,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HoPy9qVfQCqeEN67o6'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -381,9 +381,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HoVig5fUYFvvKNkCd3'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -396,9 +396,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HoaAZzVsCev1joZpf5'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -411,9 +411,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HojMiU24H6Nk291Atj'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -426,9 +426,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HopJNf6tZP6dMZ2hzG'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -441,9 +441,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HotZ7frHndfKuqx93G'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -456,9 +456,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hp2c3jYmChLKTKn9C9'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -471,9 +471,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hp6uWWyeuSoKtXWMx9'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -486,9 +486,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpC4pBx2UoLhQixhRe'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -501,9 +501,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpZRCd4JMV1uuPFPq7'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -516,9 +516,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpddhoziwYRXnhhf97'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -531,9 +531,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpmPXwFRt9PZGf98PK'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -546,9 +546,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpqsQhtQqKQGmRc2N4'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -561,9 +561,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpvbvJEMaZJTtEvtKx'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -576,9 +576,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqDqku8KFHXhgstd55'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -591,9 +591,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqQ5uJk3AxREpqyUmr'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -606,9 +606,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqU8jkKE4Dd8Mn3wYB'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -621,9 +621,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqodkCVzRuwdJ26Vd3'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -636,9 +636,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqsNj2Faes2LE9V5e9'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -651,9 +651,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrYMmMBQ16GvUB3fZS'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -666,9 +666,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrdTqjELMLdsvBstuM'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -681,9 +681,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrhhqUtKTZvuUJLiTK'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -696,9 +696,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrrY9tUgU5vq8SsHfN'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -711,9 +711,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hs5BQpHStHB3pDqEAp'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -726,9 +726,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsA3rjitYNeM792AcU'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -741,9 +741,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsNPWUW8wQfJpwsgDv'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -756,9 +756,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsSQroEbBjCvHMB8Yb'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -771,9 +771,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsmPs4yJdFbXKqy9UH'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -786,9 +786,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtakS9zmtQP7cUD8qP'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -801,9 +801,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtezRXTCzUDPKpwUJd'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -816,9 +816,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hu1KYYz9yJ5xdVmSvC'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -831,9 +831,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hu986dAm4LoY3Zsf4x'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -846,9 +846,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HuDhSBAYTr6ciHF5Pq'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -861,9 +861,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsvaX3R1Qp1tYVDYC1'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -876,9 +876,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Ht4z33KsbZJGvL92Q1'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -891,9 +891,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HnvvDPrgm9nWUdT2pB'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -906,9 +906,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpGh8WDQMcxk73q2f4'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -921,9 +921,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpRA7bVReXVQ5SDnbG'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -936,9 +936,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HphqTt5J7jh6MBKjS9'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -951,9 +951,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpzN8ugFHtV5ubxnVX'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -966,9 +966,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqjJJarkieNpp7t7ot'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -981,9 +981,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hr33tbD2LTXpduf62V'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -996,9 +996,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrCd79hjmQ5Up83Qv8'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1011,9 +1011,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrH31txBhPfPGVAVSr'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1026,9 +1026,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrzkWcgtqqUVqrgKAb'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1041,9 +1041,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsErL2QvzsWrHwzVwd'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1056,9 +1056,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsWWfY75gdvnXdus7f'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1071,9 +1071,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HszuiUGuTrjT69ZBAY'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1086,9 +1086,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Ht8a632VW35bPyTSZD'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1101,9 +1101,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtX2wdM2yYs759yJqM'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1116,9 +1116,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtnbKhRipJQEi91jV1'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1131,9 +1131,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtrrZTDHFuYL6stKY7'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1146,9 +1146,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HpLfjvwg3x9HdHpjz1'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1161,9 +1161,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HqwNqLV791xeuJfXi8'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1176,9 +1176,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HrnHAkk1mLVko1aSUv'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1191,9 +1191,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsbJeAfmFLTrJHAHMP'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1206,9 +1206,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HsgwE45d9L5krKi9ty'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1221,9 +1221,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5Hsq582sQi9ZDJP1rhC'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1236,9 +1236,9 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtCQGoTgiyfFbiUfjU'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
 
@@ -1251,8 +1251,8 @@ ERROR: LLM generation failed — Messages.create() got an unexpected keyword arg
 
 ### BLUF Summary
 
-ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf5HtRfjh57ozDtiq7EUP'}
 
-**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed — Messages.create() got an unexpected keyword argument 'temperature'
+**Analyst Reasoning:** LLM response could not be parsed. Raw: ERROR: LLM generation failed - Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans
 
 ---
